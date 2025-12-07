@@ -41,7 +41,7 @@ node index.js
 
 **终端 3 - 使用 Cherry 连接（stdio 模式）:**
 ```bash
-cherry stdio --server node index.js
+cherry stdio 快速配置sse http://localhost:3000/sse
 ```
 
 ### 模型建议
